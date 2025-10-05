@@ -6,7 +6,7 @@
 
 **Sharks from Space** is a NASA Space Apps Challenge project that explores how satellite data can help us understand and predict shark foraging hotspots across the world’s oceans.
 
-Our approach combines cutting-edge **Earth observation data** from NASA missions with **machine learning** to map regions where sharks are most likely to hunt — driven by oceanic productivity, temperature, and circulation dynamics.
+Our approach combines cutting-edge **Earth observation data** from NASA missions with **machine learning** to map regions where sharks are most likely to hunt: driven by oceanic productivity, temperature, and circulation dynamics.
 
 By integrating these parameters with **real shark movement data** from the Movebank Animal Tracking Database, we aim to uncover patterns that connect space-based observations to marine predator behavior.
 
@@ -16,7 +16,7 @@ By integrating these parameters with **real shark movement data** from the Moveb
 
 Sharks play a crucial role in maintaining healthy ocean ecosystems, but their habitats and movement patterns are becoming increasingly unpredictable due to **climate change** and **ocean warming**.
 
-Conventional tracking methods—such as tagging—offer limited spatial coverage. However, **Earth-observing satellites** now provide a new way to monitor the environmental factors influencing shark behavior at a global scale.
+Conventional tracking methods—such as tagging-offer limited spatial coverage. However, **Earth-observing satellites** now provide a new way to monitor the environmental factors influencing shark behavior at a global scale.
 
 Our mission:
 
@@ -127,7 +127,7 @@ These results highlight how **space-based observation and ecological modeling** 
 
 ## 🚀 Impact
 
-Our system demonstrates the potential of **satellite-informed conservation** — enabling real-time monitoring of oceanic ecosystems from space.
+Our system demonstrates the potential of **satellite-informed conservation** - enabling real-time monitoring of oceanic ecosystems from space.
 
 Applications include:
 
@@ -148,9 +148,9 @@ Applications include:
 
 ## 🧑‍🚀 Team
 
-* **Akshaya R.** – Data Integration, Machine Learning, and Visualization
-* **Shaina** – Data Integration, Machine Learning, and Visualization
-* **Joel Prince** – Data Integration, Machine Learning, and Visualization
+* **Shaina** – Data Integration, Data Sourcing, Backend Development 
+* **Joel Prince** – Data Integration, UI/UX, Frontend Development
+* **Akshaya R.** – Machine Learning, Visualization
 
 
 ---
