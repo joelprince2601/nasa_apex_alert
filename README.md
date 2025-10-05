@@ -4,7 +4,7 @@
 
 ## 🌍 Overview
 
-**Sharks from Space** is a NASA Space Apps Challenge project that explores how satellite data can help us understand and predict shark foraging hotspots across the world’s oceans.
+**Sharks from Space** is a NASA SpaceApps Challenge 2025 project that explores how satellite data can help us understand and predict shark foraging hotspots across the world’s oceans.
 
 Our approach combines cutting-edge **Earth observation data** from NASA missions with **machine learning** to map regions where sharks are most likely to hunt: driven by oceanic productivity, temperature, and circulation dynamics.
 
